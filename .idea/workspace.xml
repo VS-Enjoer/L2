@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59931e2c-61b9-4b46-ae06-04cc408a6bba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/GoLang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev01/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev01/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev01/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev01/task_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev02/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev02/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev02/task_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/task_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/expected/expected_M.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/expected/expected_b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/expected/expected_h.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/expected/expected_k.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/expected/expected_n.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/expected/expected_r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/expected/expected_u.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/input/M.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/input/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/input/c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/input/h.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/input/k.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/input/n.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/input/r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev03/testDirr/input/u.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev04/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev04/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev04/task_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev05/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev05/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev05/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev05/task_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev06/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev06/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev06/task_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev07/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev07/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev07/task_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev08/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev08/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev08/task_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev09/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev09/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev09/task_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev10/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev10/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev10/task_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev11/events.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev11/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev11/handlers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev11/task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/develop/dev11/task_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listing/listing01.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listing/listing02.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listing/listing03.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listing/listing04.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listing/listing05.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listing/listing06.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listing/listing07.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/01_facade/01_facade.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/02_builder/02_builder.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/03_visitor/03_visitor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/04_command/04_command.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/05_chain_of_resp/05_chain_of_resp.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/06_factory_method/06_factory_method.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/07_strategy/07_strategy.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/08_state/08_state.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/sdk/go1.21.3" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2XzOv0X1uN4DtNvKbsXhRNfvzHQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GoLang&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.customizations&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GoLang\pattern\07_strategy" />
+      <recent name="D:\GoLang\pattern\08_state" />
+      <recent name="D:\GoLang\pattern\06_factory_method" />
+      <recent name="D:\GoLang\pattern\05_chain_of_resp" />
+      <recent name="D:\GoLang\pattern\04_command" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build 08_state.go">
+    <configuration name="go build 04_command.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoLang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/pattern/04_command/04_command.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 05_chain_of_resp.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoLang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/pattern/05_chain_of_resp/05_chain_of_resp.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 06_factory_method.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoLang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/pattern/06_factory_method/06_factory_method.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 07_strategy.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoLang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/pattern/07_strategy/07_strategy.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 08_state.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoLang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/pattern/08_state/08_state.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build 08_state.go" />
+        <item itemvalue="Go Build.go build 07_strategy.go" />
+        <item itemvalue="Go Build.go build 06_factory_method.go" />
+        <item itemvalue="Go Build.go build 05_chain_of_resp.go" />
+        <item itemvalue="Go Build.go build 04_command.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
